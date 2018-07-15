@@ -1,0 +1,53 @@
+h3 {
+    color: #7d97ad;
+    font-family: 'helvetica', sans-serif;
+}
+
+hr {
+    
+    height: 2px;
+    border: none;
+    background-color: #7d97ad;
+}
+
+.logo {
+    float: left;
+}
+
+.logo-text {
+    float: right;
+}
+
+
+.headingcontainer {
+    border-bottom: 4px solid;
+    border-bottom-color: #7d97ad;
+    padding-bottom: 5px;
+}
+
+.mainimage {
+    padding: 5px;
+    width: 100%;
+}
+
+.Featuredwork {
+    color:  #7d97ad;
+}
+
+.articleimage {
+    width: 100%;
+}
+
+.featured-work-heading{
+    text-align: center;
+}
+
+.featured-work-link{
+    font-size: 10px;
+    text-align: center;
+}
+    
+
+
+
+
